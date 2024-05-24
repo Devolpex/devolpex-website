@@ -5,29 +5,26 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "Marrakech Best To Do",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
+      "Devolpex delivered beyond our expectations with their unmatched expertise and dedication, setting a new standard for excellence.",
+    image: "/images/testimonials/marrakech-best-to-do.png",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "Amira Artizana",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-02.png",
+      "The team at Devolpex is professional and highly skilled. They provided excellent support throughout our project.",
+    image: "/images/testimonials/amira-artizana.jpg",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "Chez Ali",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-03.png",
+      "Thanks to Devolpex, our business has seen tremendous growth. Their solutions are top-notch.",
+    image: "/images/testimonials/chez-ali.jpg",
     star: 5,
   },
 ];
