@@ -12,23 +12,24 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo-2.svg"
+                    src="/images/logo/logo.png"
                     alt="logo"
-                    className="w-full dark:hidden"
-                    width={140}
-                    height={30}
+                    width={100}
+                    height={20}
+                    className="w-1/2 dark:hidden"
                   />
                   <Image
-                    src="/images/logo/logo.svg"
+                    src="/images/logo/logo.png"
                     alt="logo"
-                    className="hidden w-full dark:block"
-                    width={140}
-                    height={30}
+                    width={100}
+                    height={20}
+                    className="hidden w-1/2 dark:block"
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Discover innovation and excellence with Devolpex. Your digital
+                  transformation partner, committed to delivering cutting-edge
+                  solutions and unparalleled service.
                 </p>
                 <div className="flex items-center">
                   <a
